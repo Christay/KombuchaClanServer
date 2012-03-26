@@ -1,0 +1,18 @@
+Mar 16, 2012 8:19:46 PM ModLoader init
+FINE: ModLoader Server 1.2.3v3 Initializing...
+Mar 16, 2012 8:19:46 PM ModLoader readFromClassPath
+FINER: Adding mods from C:\Kombucha\minecraft_server.jar
+Mar 16, 2012 8:19:46 PM ModLoader readFromClassPath
+FINER: Zip found.
+Mar 16, 2012 8:19:46 PM ModLoaderMp log
+FINE: ModLoaderMP 1.2.3v3 Initialized
+Mar 17, 2012 12:10:57 PM ModLoaderMp log
+FINE: Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+Mar 17, 2012 1:28:25 PM ModLoaderMp log
+FINE: Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+Mar 17, 2012 1:59:18 PM ModLoaderMp log
+FINE: Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+Mar 17, 2012 2:10:27 PM ModLoaderMp log
+FINE: thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+Mar 17, 2012 2:15:18 PM ModLoaderMp log
+FINE: Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2

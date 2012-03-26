@@ -1,1 +1,1 @@
-java -Xmx2G -Xms2G -jar minecraft_server.jar
+java -Xmx2G -Xms2G -jar craftbukkit.jar

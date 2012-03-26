@@ -1,0 +1,1671 @@
+2012-03-12 17:39:08 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 17:39:08 [INFO] Loading properties
+2012-03-12 17:39:08 [WARNING] server.properties does not exist
+2012-03-12 17:39:08 [INFO] Generating new properties file
+2012-03-12 17:39:08 [INFO] Starting Minecraft server on *:25565
+2012-03-12 17:39:08 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2012-03-12 17:39:08 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2012-03-12 17:39:08 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2012-03-12 17:39:08 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2012-03-12 17:39:08 [INFO] Preparing level "world"
+2012-03-12 17:39:09 [INFO] Default game type: 0
+2012-03-12 17:39:10 [INFO] Preparing start region for level 0
+2012-03-12 17:39:11 [INFO] Preparing spawn area: 52%
+2012-03-12 17:39:12 [INFO] Done (3617453241ns)! For help, type "help" or "?"
+2012-03-12 17:42:17 [INFO] /192.168.1.6:49350 lost connection
+2012-03-12 17:42:23 [INFO] Disconnecting /192.168.1.6:49333: Took too long to log in
+2012-03-12 17:43:09 [INFO] thatguythr [/5.35.211.134:49368] logged in with entity id 13 at (708.0863577573042, 64.0, 282.49995130221686)
+2012-03-12 17:43:53 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-12 17:45:50 [INFO] thatguythr [/5.35.211.134:49406] logged in with entity id 853 at (696.6641557572256, 64.0, 321.56824518983166)
+2012-03-12 17:59:16 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-12 18:22:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:22:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:26:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:27:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:28:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:28:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:28:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:28:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 18:31:20 [INFO] thatguythr [/5.35.211.134:49704] logged in with entity id 14519 at (687.1970367942447, 64.0, 317.4345743284065)
+2012-03-12 18:33:57 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-12 19:04:20 [INFO] Stopping server
+2012-03-12 19:04:20 [INFO] Saving chunks
+2012-03-12 19:04:20 [INFO] Saving chunks
+2012-03-12 19:04:20 [INFO] Saving chunks
+2012-03-12 19:09:10 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 19:09:10 [INFO] Loading properties
+2012-03-12 19:09:10 [INFO] Starting Minecraft server on *:25565
+2012-03-12 19:09:10 [INFO] Preparing level "world"
+2012-03-12 19:09:10 [INFO] Default game type: 1
+2012-03-12 19:09:10 [INFO] Preparing start region for level 0
+2012-03-12 19:09:10 [INFO] Done (319833271ns)! For help, type "help" or "?"
+2012-03-12 19:09:17 [INFO] Stopping server
+2012-03-12 19:09:17 [INFO] Saving chunks
+2012-03-12 19:09:17 [INFO] Saving chunks
+2012-03-12 19:09:17 [INFO] Saving chunks
+2012-03-12 19:09:52 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-12 19:09:52 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 19:09:52 [INFO] Loading properties
+2012-03-12 19:09:52 [INFO] Starting Minecraft server on *:25565
+2012-03-12 19:09:52 [INFO] Preparing level "world"
+2012-03-12 19:09:52 [INFO] Default game type: 1
+2012-03-12 19:09:52 [INFO] Preparing start region for level 0
+2012-03-12 19:09:52 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-12 19:09:52 [INFO] Done (325434058ns)! For help, type "help" or "?"
+2012-03-12 19:10:20 [INFO] Stopping server
+2012-03-12 19:10:20 [INFO] Saving chunks
+2012-03-12 19:10:20 [INFO] Saving chunks
+2012-03-12 19:10:20 [INFO] Saving chunks
+2012-03-12 19:11:24 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-12 19:11:25 [SEVERE] Unexpected exception
+java.lang.RuntimeException: ModLoader has failed to initialize.
+	at ModLoader.throwException(ModLoader.java:1577)
+	at ModLoader.init(ModLoader.java:609)
+	at ModLoader.initialize(ModLoader.java:1640)
+	at net.minecraft.server.MinecraftServer.s(MinecraftServer.java:160)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+	at dm.run(SourceFile:490)
+Caused by: java.lang.RuntimeException: Exception occured in ModLoader
+	at ModLoader.throwException(ModLoader.java:1577)
+	at ModLoader.throwException(ModLoader.java:1582)
+	at ModLoader.addMod(ModLoader.java:156)
+	at ModLoader.readFromClassPath(ModLoader.java:868)
+	at ModLoader.init(ModLoader.java:577)
+	... 4 more
+Caused by: java.lang.NoClassDefFoundError: acf
+	at mod_ReiMinimap.getVersion(mod_ReiMinimap.java:24)
+	at BaseMod.toString(BaseMod.java:66)
+	at ModLoader.addMod(ModLoader.java:146)
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: acf
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 9 more
+2012-03-12 19:11:39 [INFO] Stopping server
+2012-03-12 19:12:14 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-12 19:12:14 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 19:12:14 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2012-03-12 19:12:14 [INFO] Loading properties
+2012-03-12 19:12:14 [INFO] Starting Minecraft server on *:25565
+2012-03-12 19:12:14 [INFO] Preparing level "world"
+2012-03-12 19:12:14 [INFO] Default game type: 1
+2012-03-12 19:12:14 [INFO] Preparing start region for level 0
+2012-03-12 19:12:14 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-12 19:12:15 [INFO] Done (375818499ns)! For help, type "help" or "?"
+2012-03-12 19:12:21 [INFO] Stopping server
+2012-03-12 19:12:21 [INFO] Saving chunks
+2012-03-12 19:12:21 [INFO] Saving chunks
+2012-03-12 19:12:21 [INFO] Saving chunks
+2012-03-12 19:12:23 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-12 19:12:23 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 19:12:23 [INFO] Loading properties
+2012-03-12 19:12:23 [INFO] Starting Minecraft server on *:25565
+2012-03-12 19:12:23 [INFO] Preparing level "world"
+2012-03-12 19:12:23 [INFO] Default game type: 1
+2012-03-12 19:12:23 [INFO] Preparing start region for level 0
+2012-03-12 19:12:23 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-12 19:12:24 [INFO] Done (326797824ns)! For help, type "help" or "?"
+2012-03-12 19:12:29 [INFO] Stopping server
+2012-03-12 19:12:29 [INFO] Saving chunks
+2012-03-12 19:12:29 [INFO] Saving chunks
+2012-03-12 19:12:29 [INFO] Saving chunks
+2012-03-12 19:17:19 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-12 19:17:20 [INFO] Starting minecraft server version 1.2.3
+2012-03-12 19:17:20 [INFO] Loading properties
+2012-03-12 19:17:20 [INFO] Starting Minecraft server on *:25565
+2012-03-12 19:17:20 [INFO] Preparing level "world"
+2012-03-12 19:17:20 [INFO] Default game type: 1
+2012-03-12 19:17:20 [INFO] Preparing start region for level 0
+2012-03-12 19:17:20 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-12 19:17:20 [INFO] Done (320830696ns)! For help, type "help" or "?"
+2012-03-12 19:17:42 [INFO] thatguythr [/5.35.211.134:55681] logged in with entity id 13 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-12 19:17:43 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3
+2012-03-12 19:17:57 [INFO] thatguythr lost connection: disconnect.genericReason
+2012-03-12 19:25:03 [INFO] /5.229.35.210:3456 lost connection
+2012-03-12 19:39:36 [INFO] Zerec456 [/5.229.35.210:4590] logged in with entity id 4381 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-12 19:39:37 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-12 19:39:43 [INFO] Zerec456 [/5.229.35.210:4597] logged in with entity id 4508 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-12 19:39:43 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-12 19:39:57 [INFO] Zerec456 [/5.229.35.210:4612] logged in with entity id 4664 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-12 19:39:57 [INFO] Zerec456 lost connection: disconnect.genericReason
+2012-03-12 19:45:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:45:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:45:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:45:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:46:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:46:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:46:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:46:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:47:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:48:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:48:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:48:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:48:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 19:48:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:01:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:01:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:01:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:02:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:02:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:02:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:02:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:02:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-12 20:04:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-13 14:57:08 [INFO] Zerec456 [/5.229.35.210:3287] logged in with entity id 4780 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 14:57:08 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-13 15:44:14 [INFO] Zerec456 [/5.229.35.210:3336] logged in with entity id 4870 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 15:44:15 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-13 16:42:51 [INFO] thatguythr [/5.102.87.236:9487] logged in with entity id 5178 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:42:51 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:43:01 [INFO] thatguythr [/5.102.87.236:9493] logged in with entity id 5228 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:43:01 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:43:19 [INFO] thatguythr [/5.102.87.236:9497] logged in with entity id 5293 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:43:20 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:43:44 [INFO] thatguythr [/5.102.87.236:9501] logged in with entity id 5364 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:43:44 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:45:08 [INFO] thatguythr [/5.102.87.236:9519] logged in with entity id 5570 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:45:08 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:46:39 [INFO] thatguythr [/5.102.87.236:9857] logged in with entity id 5642 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:46:40 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:46:57 [INFO] thatguythr [/5.102.87.236:9874] logged in with entity id 5733 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:46:57 [INFO] thatguythr lost connection: disconnect.endOfStream
+2012-03-13 16:52:28 [INFO] thatguythr [/5.102.87.236:11104] logged in with entity id 5815 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-13 16:52:28 [INFO] thatguythr joined with mod_ModLoaderMp 1.2.3v3
+2012-03-13 16:52:35 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-13 19:30:40 [INFO] Zerec456 [/5.229.35.210:2140] logged in with entity id 7778 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 19:30:41 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-13 19:30:53 [INFO] Zerec456 [/5.229.35.210:2151] logged in with entity id 8039 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 19:30:54 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-13 19:52:01 [INFO] Zerec456 [/5.229.35.210:2177] logged in with entity id 8260 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 19:52:02 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-13 19:58:02 [INFO] Zerec456 [/5.229.35.210:2586] logged in with entity id 8554 at (703.4778393747814, 80.18859317728015, 216.38034185301575)
+2012-03-13 19:58:04 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-13 19:58:09 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-13 20:06:13 [INFO] Zerec456 [/5.229.35.210:2612] logged in with entity id 10095 at (703.4778393747814, 63.0, 216.38034185301575)
+2012-03-13 20:06:14 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-13 20:06:44 [INFO] <Zerec456> running beautifully
+2012-03-13 20:06:52 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-14 15:46:10 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-14 15:46:10 [INFO] Starting minecraft server version 1.2.3
+2012-03-14 15:46:10 [INFO] Loading properties
+2012-03-14 15:46:10 [INFO] Starting Minecraft server on *:25565
+2012-03-14 15:46:10 [INFO] Preparing level "world"
+2012-03-14 15:46:10 [INFO] Default game type: 1
+2012-03-14 15:46:10 [INFO] Preparing start region for level 0
+2012-03-14 15:46:10 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-14 15:46:10 [INFO] Done (441439964ns)! For help, type "help" or "?"
+2012-03-14 17:19:24 [INFO] thatguythr [/5.35.211.134:54260] logged in with entity id 13 at (678.4562363583484, 75.0, 378.33445984172255)
+2012-03-14 17:19:25 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-14 17:25:07 [INFO] thatguythr lost connection: disconnect.genericReason
+2012-03-14 17:25:10 [INFO] /5.35.211.134:54306 lost connection
+2012-03-14 17:25:30 [INFO] /5.35.211.134:54340 lost connection
+2012-03-14 17:25:57 [INFO] /5.35.211.134:54352 lost connection
+2012-03-14 17:25:58 [INFO] thatguythr [/5.35.211.134:54353] logged in with entity id 99259 at (703.1631783404002, 64.1238038054544, 276.69999998807907)
+2012-03-14 17:25:58 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-14 17:50:43 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-15 06:43:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 11:54:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 11:55:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 11:55:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 11:58:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 11:59:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:03:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:10:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:10:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:13:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:17:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:18:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:36:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:36:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:37:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:37:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:41:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:43:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:50:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:53:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:54:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:55:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:56:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:56:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 12:57:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:01:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:01:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:09:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:22:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:23:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:28:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:29:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:29:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:29:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:30:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:31:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:31:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:31:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:31:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:34:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:35:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:35:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:35:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:35:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:35:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:36:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:36:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:36:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:36:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:37:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:37:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:57:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 13:57:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:01:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:03:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:03:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:06:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:08:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:08:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:08:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:09:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:09:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:09:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:09:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:10:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:10:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:10:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:11:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:11:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:16:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:20:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:26:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:31:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:35:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:36:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 14:56:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-15 17:32:47 [INFO] Godfrey9 [/5.229.38.4:50732] logged in with entity id 520256 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:32:48 [INFO] Godfrey9 lost connection: disconnect.genericReason
+2012-03-15 17:32:54 [INFO] Godfrey9 [/5.229.38.4:50739] logged in with entity id 520538 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:32:56 [INFO] Zerec456 [/5.229.35.210:3849] logged in with entity id 520809 at (702.3722230722877, 69.68859317728005, 287.9607711934308)
+2012-03-15 17:32:56 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-15 17:33:19 [INFO] Godfrey9 lost connection: disconnect.genericReason
+2012-03-15 17:33:22 [INFO] Godfrey9 [/5.229.38.4:50749] logged in with entity id 528737 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:33:23 [INFO] Godfrey9 lost connection: disconnect.genericReason
+2012-03-15 17:34:36 [INFO] Godfrey9 [/5.229.38.4:50824] logged in with entity id 549919 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:34:36 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-15 17:37:44 [INFO] Godfrey9 [/5.229.38.4:50843] logged in with entity id 604960 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:37:46 [INFO] Godfrey9 lost connection: disconnect.genericReason
+2012-03-15 17:38:18 [INFO] Godfrey9 [/5.229.38.4:50858] logged in with entity id 614888 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:38:18 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-15 17:39:41 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-15 17:41:10 [INFO] Godfrey9 [/5.229.38.4:50884] logged in with entity id 638952 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:41:10 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-15 17:44:29 [INFO] Godfrey9 [/5.229.38.4:54543] logged in with entity id 639034 at (714.78125, 68.0, 192.8125)
+2012-03-15 17:44:30 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-15 17:44:44 [INFO] Zerec456 [/5.229.35.210:3877] logged in with entity id 642129 at (726.6160691144868, 73.99880380545441, 282.48539683564854)
+2012-03-15 17:44:44 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-15 17:47:53 [INFO] Unknown console command. Type "help" for help.
+2012-03-15 17:48:01 [INFO] [CONSOLE] hello all
+2012-03-15 17:48:11 [INFO] <Zerec456> ...hi?
+2012-03-15 17:48:39 [INFO] [CONSOLE] this is god, aka taylor not logged in eating his dinner and talking
+2012-03-15 17:48:51 [INFO] <Godfrey9> freeking epic
+2012-03-15 17:48:51 [INFO] <Zerec456> lol, good
+2012-03-15 17:49:07 [INFO] <Zerec456> i assume you can see our chat?
+2012-03-15 17:49:28 [INFO] thatguythr [/5.35.211.134:49942] logged in with entity id 731950 at (694.2536049770085, 69.61615442427762, 313.7555118907946)
+2012-03-15 17:49:28 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-15 17:49:37 [INFO] <Zerec456> oh herrroooo
+2012-03-15 17:49:39 [INFO] <Godfrey9> hey, why cant i spawn moosrooms
+2012-03-15 17:49:42 [INFO] <Godfrey9> hero
+2012-03-15 17:49:53 [INFO] <thatguythr> spawn is off
+2012-03-15 17:50:06 [INFO] <Godfrey9> cool cool
+2012-03-15 17:50:28 [INFO] <thatguythr> I FORGOT ABOUT THAT!
+2012-03-15 17:50:38 [INFO] <Godfrey9> lol
+2012-03-15 17:50:42 [INFO] <Zerec456> the sign?
+2012-03-15 17:50:46 [INFO] <Godfrey9> was it your doing/
+2012-03-15 17:50:49 [INFO] <Godfrey9> ?
+2012-03-15 17:51:12 [INFO] <thatguythr> yeah, got bored and was like... hmm, the server needs to be trolled
+2012-03-15 17:51:17 [INFO] <Godfrey9> hahaha
+2012-03-15 17:51:21 [INFO] <Godfrey9> nice
+2012-03-15 17:51:57 [INFO] <Zerec456> well, this is gonna be a huge ass wall
+2012-03-15 17:52:26 [INFO] <thatguythr> oh, it can be removed, i was just trollin
+2012-03-15 17:52:33 [INFO] <Godfrey9> no its funny
+2012-03-15 17:52:38 [INFO] <Godfrey9> we should leave it
+2012-03-15 17:54:02 [INFO] <Zerec456> ok, so
+2012-03-15 17:54:11 [INFO] <Zerec456> here's the earth...
+2012-03-15 17:54:30 [INFO] <Godfrey9> thats a damn nice earth i mite say
+2012-03-15 17:54:40 [INFO] <thatguythr> and its like chillin
+2012-03-15 17:55:08 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-15 17:55:19 [INFO] Zerec456 lost connection: disconnect.genericReason
+2012-03-15 17:55:21 [INFO] Godfrey9 [/5.229.38.4:54569] logged in with entity id 874043 at (610.2142546241586, 67.99880380545426, 411.10941017194364)
+2012-03-15 17:55:27 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-15 17:55:40 [INFO] /5.229.38.4:54574 lost connection
+2012-03-15 17:56:18 [INFO] Zerec456 [/5.229.35.210:4006] logged in with entity id 891108 at (720.625, 79.21875, 302.90625)
+2012-03-15 17:56:19 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-15 17:56:25 [INFO] <Zerec456> ...
+2012-03-15 17:56:26 [INFO] <Zerec456> that was wierd
+2012-03-15 17:56:47 [INFO] <thatguythr> what did you try and load
+2012-03-15 17:56:53 [INFO] <Zerec456> nothing
+2012-03-15 17:56:56 [INFO] <Zerec456> our internet
+2012-03-15 17:57:04 [INFO] <Zerec456> crapped out on us
+2012-03-15 17:57:15 [INFO] <thatguythr> hence both you failing hard
+2012-03-15 17:57:19 [INFO] <Zerec456> yeah
+2012-03-15 17:58:17 [INFO] <Zerec456> so, in the interest of resources
+2012-03-15 17:58:28 [INFO] <Zerec456> if we have to build it from scratch
+2012-03-15 17:58:35 [INFO] <Zerec456> this wall will look like this
+2012-03-15 17:59:10 [INFO] <Zerec456> the hollow space can also be utilized as we see fit
+2012-03-15 18:00:26 [INFO] <Zerec456> the gatehouses will be larger, with iron golems as guards
+2012-03-15 18:00:53 [INFO] <Zerec456> the ceiling in the gatehouses will be 3 or 4 tall
+2012-03-15 18:01:02 [INFO] <thatguythr> we should SO fill the walls with water again :/
+2012-03-15 18:01:12 [INFO] Godfrey9 [/5.229.38.4:55121] logged in with entity id 973600 at (610.2142546241586, 67.99880380545426, 411.10941017194364)
+2012-03-15 18:01:13 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-15 18:01:17 [INFO] <Zerec456> lol, that would take forever
+2012-03-15 18:01:17 [INFO] <thatguythr> because that didnt take forever
+2012-03-15 18:02:07 [INFO] <thatguythr> lets make the wall out of wool
+2012-03-15 18:02:14 [INFO] <Godfrey9> and ... lol
+2012-03-15 18:02:16 [INFO] <Zerec456> ghuaaaaaaaa
+2012-03-15 18:02:25 [INFO] <Zerec456> that would take SOOOOO LONG
+2012-03-15 18:02:27 [INFO] <thatguythr> here sheepy
+2012-03-15 18:02:35 [INFO] <Zerec456> BAAAAAAAAH
+2012-03-15 18:04:49 [INFO] <Godfrey9> NICE
+2012-03-15 18:04:57 [INFO] <Godfrey9> you are goldmember
+2012-03-15 18:05:03 [INFO] <thatguythr> that wouldnt take forever to mine
+2012-03-15 18:05:14 [INFO] <Zerec456> oh, no. not at all
+2012-03-15 18:05:39 [INFO] <Godfrey9> that makes it to low
+2012-03-15 18:05:49 [INFO] <Godfrey9> you cant see out over the top
+2012-03-15 18:06:20 [INFO] <Godfrey9> problem
+2012-03-15 18:06:26 [INFO] <Godfrey9> you can walk off the top of the wall
+2012-03-15 18:07:04 [INFO] <Godfrey9> actually, i like having the wall able to fall off of
+2012-03-15 18:07:23 [INFO] <Zerec456> can shoot arrows off the edge if nessessary
+2012-03-15 18:07:28 [INFO] <thatguythr> its an escape route
+2012-03-15 18:07:32 [INFO] <Zerec456> yeah
+2012-03-15 18:07:38 [INFO] <Zerec456> done and done
+2012-03-15 18:07:39 [INFO] <Godfrey9> and shoot at zombie rushes
+2012-03-15 18:14:38 [INFO] <Zerec456> tada.
+2012-03-15 18:14:44 [INFO] <Zerec456> so to speak
+2012-03-15 18:14:45 [INFO] <thatguythr> you ever played monster hunter speaches
+2012-03-15 18:15:00 [INFO] <Zerec456> no, tho i wanted to
+2012-03-15 18:15:07 [INFO] <thatguythr> its like crack
+2012-03-15 18:15:22 [INFO] <thatguythr> and fucked up hard
+2012-03-15 18:17:50 [INFO] Zerec456 tried command: afk
+2012-03-15 18:18:21 [INFO] <thatguythr> the game is pure skill, so if you get good at it, YOU ARE A GOD
+2012-03-15 18:18:28 [INFO] <Zerec456> imma take a look at the gatehouse sketches...brb
+2012-03-15 18:18:31 [INFO] <Zerec456> so true
+2012-03-15 18:18:48 [INFO] <Zerec456> the trailers
+2012-03-15 18:18:52 [INFO] <Zerec456> just hilarious
+2012-03-15 18:20:02 [INFO] <thatguythr> um...
+2012-03-15 18:20:26 [INFO] <thatguythr> there we go
+2012-03-15 18:21:15 [INFO] <thatguythr> ok, who put the pit under us...
+2012-03-15 18:21:27 [INFO] <Zerec456> hm....
+2012-03-15 18:21:28 [INFO] <Godfrey9> it was me!!!!!!!!!!!!!!!!!!!
+2012-03-15 18:21:32 [INFO] <thatguythr> ...
+2012-03-15 18:21:35 [INFO] <Zerec456> freaking mad bomber
+2012-03-15 18:21:36 [INFO] <thatguythr> i knew it
+2012-03-15 18:21:52 [INFO] <Zerec456> there WAS a peninsula here
+2012-03-15 18:22:08 [INFO] <Godfrey9> but then i KILLED it
+2012-03-15 18:22:15 [INFO] <thatguythr> fair enough
+2012-03-15 18:25:25 [INFO] <Godfrey9> work on the wall
+2012-03-15 18:25:33 [INFO] <Godfrey9> i need to do some estetic work
+2012-03-15 18:25:54 [INFO] <Zerec456> aestetic
+2012-03-15 18:25:59 [INFO] <Zerec456> but yeah
+2012-03-15 18:26:00 [INFO] <Godfrey9> yeah that word
+2012-03-15 18:27:37 [INFO] <Zerec456> i forgot something...
+2012-03-15 18:27:41 [INFO] <Zerec456> spiders
+2012-03-15 18:28:01 [INFO] <Zerec456> we'll need a block to block them off
+2012-03-15 18:28:09 [INFO] <Zerec456> no pun intended
+2012-03-15 18:28:46 [INFO] <Zerec456> unfortunately, arrows hit the torches
+2012-03-15 18:29:53 [INFO] <thatguythr> there, now they're round back :)
+2012-03-15 18:30:14 [INFO] <Zerec456> cool cool
+2012-03-15 18:30:19 [INFO] <Zerec456> herre
+2012-03-15 18:30:22 [INFO] <Zerec456> or here
+2012-03-15 18:30:27 [INFO] <Zerec456> take a look
+2012-03-15 18:31:18 [INFO] <Zerec456> hah
+2012-03-15 18:31:24 [INFO] <Zerec456> take that spiders
+2012-03-15 18:31:56 [INFO] <Zerec456> ah
+2012-03-15 18:32:00 [INFO] <Zerec456> thats an idea
+2012-03-15 18:32:37 [INFO] <Godfrey9> does not mess with arrow
+2012-03-15 18:32:38 [INFO] <Godfrey9> lol
+2012-03-15 18:32:42 [INFO] <Godfrey9> i like it
+2012-03-15 18:33:07 [INFO] <Zerec456> uh
+2012-03-15 18:33:18 [INFO] <Zerec456> ivy freaked out
+2012-03-15 18:36:57 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-15 18:37:01 [INFO] Zerec456 [/5.229.35.210:4036] logged in with entity id 1600722 at (614.2711858173241, 68.63172773251729, 274.64275695507916)
+2012-03-15 18:37:01 [INFO] Zerec456 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_Timber 1.2.3, mod_Arrows 1.2.3, mod_Somnia v21 [1.2.3], mod_ModLoaderMp 1.2.3v2, mod_Millenaire 2.4.1
+2012-03-15 18:37:58 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-15 18:38:00 [INFO] /5.35.211.134:50308 lost connection
+2012-03-15 18:38:07 [INFO] thatguythr [/192.168.1.6:50321] logged in with entity id 1620723 at (613.9755390122954, 66.9988038054544, 284.8704052969134)
+2012-03-15 18:38:08 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-15 18:38:34 [INFO] <thatguythr> leave demo to me!
+2012-03-15 18:38:39 [INFO] <Zerec456> cool
+2012-03-15 18:42:23 [INFO] <thatguythr> your clear for a while
+2012-03-15 18:42:27 [INFO] <Zerec456> k
+2012-03-15 18:42:38 [INFO] <Zerec456> gonna make it corner a few times
+2012-03-15 18:42:44 [INFO] <Zerec456> ?
+2012-03-15 18:42:52 [INFO] <Zerec456> sorry, lemme try that again
+2012-03-15 18:43:16 [INFO] <Zerec456> are you gonna make the wall turn and corner a few times?
+2012-03-15 18:45:08 [INFO] <thatguythr> go further before turning
+2012-03-15 18:45:31 [INFO] <Zerec456> what if we make several turns?
+2012-03-15 18:45:39 [INFO] <thatguythr> or that
+2012-03-15 18:45:55 [INFO] <thatguythr> also, flint and steel works WAY better
+2012-03-15 18:46:02 [INFO] <Zerec456> true
+2012-03-15 18:47:05 [INFO] <Godfrey9> NICE!!!!
+2012-03-15 18:47:21 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-15 18:47:24 [INFO] Godfrey9 [/5.229.38.4:55174] logged in with entity id 1785270 at (612.248608291042, 64.87380380545439, 285.1604301307718)
+2012-03-15 18:47:25 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-15 18:48:29 [INFO] <Godfrey9> cut it close
+2012-03-15 18:48:54 [INFO] <thatguythr> done this a ton
+2012-03-15 18:49:01 [INFO] <Godfrey9> yeah, me too
+2012-03-15 18:49:12 [INFO] <Zerec456> from in the basement, i could hear
+2012-03-15 18:49:18 [INFO] <Zerec456> boom....
+2012-03-15 18:49:26 [INFO] <Godfrey9> want me to light it?
+2012-03-15 18:49:27 [INFO] <Zerec456> BOOOMBOOOMBBOOOOM
+2012-03-15 18:49:41 [INFO] <Godfrey9> going to light it
+2012-03-15 18:50:19 [INFO] <Godfrey9> THAT WAS FUN!!!!!!!!!!!!\
+2012-03-15 18:52:29 [INFO] <Godfrey9> exploding again
+2012-03-15 18:55:24 [INFO] <Zerec456> listening to the gay bar song
+2012-03-15 18:55:31 [INFO] <Zerec456> on youtube
+2012-03-15 18:55:38 [INFO] <thatguythr> AT THE GAY BAR GAY BAR GAY BAR
+2012-03-15 18:56:01 [INFO] <thatguythr> YOU
+2012-03-15 19:02:13 [INFO] <Godfrey9> okay
+2012-03-15 19:02:21 [INFO] <Godfrey9> so beach and i need to go make dinner
+2012-03-15 19:02:30 [INFO] <thatguythr> fun
+2012-03-15 19:03:29 [INFO] <Zerec456> well, we'll be back...eventually
+2012-03-15 19:03:38 [INFO] <thatguythr> ok
+2012-03-15 19:44:32 [INFO] thatguythr tried command: tp thatguythr Zerec
+2012-03-15 19:44:47 [INFO] thatguythr tried command: tp thatguythr Zerec456
+2012-03-15 19:45:05 [INFO] CONSOLE: Opping thatguythr
+2012-03-15 19:45:11 [INFO] CONSOLE: Opping Zerec
+2012-03-15 19:45:20 [INFO] CONSOLE: Opping Zerec456
+2012-03-15 19:45:31 [INFO] CONSOLE: Opping Godfrey9
+2012-03-15 19:45:56 [INFO] thatguythr issued server command: tp thatguythr Zerec
+2012-03-15 19:46:09 [INFO] thatguythr issued server command: tp thatguythr Zerec456
+2012-03-15 19:46:09 [INFO] thatguythr: Teleporting thatguythr to Zerec456.
+2012-03-15 20:07:22 [INFO] <Godfrey9> your face
+2012-03-15 20:07:39 [INFO] <Godfrey9> iom only on for a few min
+2012-03-15 20:07:47 [INFO] <thatguythr> fair enough
+2012-03-15 20:08:00 [INFO] <Godfrey9> like the wall path?
+2012-03-15 20:08:37 [INFO] <thatguythr> seems legit
+2012-03-15 20:10:15 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-15 20:10:18 [INFO] Godfrey9 [/5.229.38.4:55257] logged in with entity id 3375794 at (726.0184303225444, 81.43691999026767, 260.78887585941663)
+2012-03-15 20:10:19 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-15 20:11:47 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-15 20:11:51 [INFO] /5.35.211.134:50963 lost connection
+2012-03-15 20:11:54 [INFO] thatguythr [/192.168.1.6:50968] logged in with entity id 3404413 at (726.4291160254883, 76.9988038054543, 226.67542327793768)
+2012-03-15 20:11:54 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-15 20:15:37 [INFO] Godfrey9 lost connection: disconnect.genericReason
+2012-03-15 20:15:37 [INFO] Zerec456 lost connection: disconnect.genericReason
+2012-03-15 20:48:05 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-16 10:47:23 [INFO] Godfrey9 [/5.229.38.4:58200] logged in with entity id 3896996 at (705.15625, 68.625, 212.25)
+2012-03-16 10:47:25 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-16 12:27:46 [INFO] thatguythr [/5.35.211.134:57097] logged in with entity id 5321734 at (719.0625, 64.0, 227.0)
+2012-03-16 12:27:47 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-16 12:28:31 [INFO] <thatguythr> nice work on the wall
+2012-03-16 12:30:07 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-16 13:48:20 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-16 13:48:25 [INFO] Godfrey9 [/5.229.38.4:58596] logged in with entity id 5937145 at (565.476649579756, 67.13172773251729, 290.5213308658601)
+2012-03-16 13:48:26 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-16 14:16:10 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-16 14:16:14 [INFO] Godfrey9 [/5.229.38.4:58661] logged in with entity id 6369927 at (766.981388347097, 68.74880380545429, 336.769845174685)
+2012-03-16 14:16:16 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-16 14:31:50 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-16 15:31:43 [INFO] Godfrey9 [/5.229.38.4:60436] logged in with entity id 6640562 at (619.7972071182404, 73.18859317727994, 358.1524853469461)
+2012-03-16 15:31:45 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-16 15:38:28 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-16 20:19:38 [INFO] Stopping server
+2012-03-16 20:19:38 [INFO] Saving chunks
+2012-03-16 20:19:38 [INFO] Saving chunks
+2012-03-16 20:19:38 [INFO] Saving chunks
+2012-03-16 20:19:46 [INFO] ModLoader Server 1.2.3v3 Initializing...
+2012-03-16 20:19:46 [INFO] Starting minecraft server version 1.2.3
+2012-03-16 20:19:46 [INFO] Loading properties
+2012-03-16 20:19:46 [INFO] Starting Minecraft server on *:25565
+2012-03-16 20:19:46 [INFO] Preparing level "world"
+2012-03-16 20:19:46 [INFO] Default game type: 1
+2012-03-16 20:19:46 [INFO] Preparing start region for level 0
+2012-03-16 20:19:46 [INFO] ModLoaderMP 1.2.3v3 Initialized
+2012-03-16 20:19:46 [INFO] Done (328007960ns)! For help, type "help" or "?"
+2012-03-17 08:33:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:34:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:38:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:38:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:39:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:41:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:42:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:43:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 08:43:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-17 12:10:56 [INFO] Godfrey9 [/5.229.38.4:51279] logged in with entity id 13 at (623.6999999880791, 9.006727732517291, 278.30000001192093)
+2012-03-17 12:10:57 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-17 12:14:09 [INFO] [CONSOLE] HELLO FROM ABOVE
+2012-03-17 12:14:14 [INFO] <Godfrey9> HERRO!!!!!!!!!!
+2012-03-17 12:14:27 [INFO] <Godfrey9> just doing some modifications to the gatehouse
+2012-03-17 12:14:34 [INFO] <Godfrey9> before work
+2012-03-17 12:14:37 [INFO] [CONSOLE] Fun fun
+2012-03-17 12:14:47 [INFO] <Godfrey9> indeed
+2012-03-17 13:18:22 [INFO] <Godfrey9> EPIX TOWER COMPLEATED
+2012-03-17 13:28:18 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 13:28:24 [INFO] Godfrey9 [/5.229.38.4:51502] logged in with entity id 1217079 at (595.654174322263, 73.50672773251719, 347.7081908517356)
+2012-03-17 13:28:25 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-17 13:59:12 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 13:59:17 [INFO] Godfrey9 [/5.229.38.4:51552] logged in with entity id 1746717 at (631.3097430100183, 72.80292494948812, 351.7631424863411)
+2012-03-17 13:59:18 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-17 14:10:26 [INFO] thatguythr [/5.35.211.134:51225] logged in with entity id 1939092 at (688.5058728052672, 82.28826918367714, 384.27915590695903)
+2012-03-17 14:10:27 [INFO] thatguythr joined with mod_Armor 1.2.3, mod_Arrows 1.2.3, mod_Biosphere 1.2.3, mod_LightSensor 1.2.3, mod_ModLoaderMp 1.2.3v3, mod_RecipeBook 1.2.3, mod_ReiMinimap v3.0_03 [1.2.3], mod_Shelf 1.2.3, mod_Millenaire 2.4.1
+2012-03-17 14:10:30 [INFO] <Godfrey9> yo
+2012-03-17 14:10:35 [INFO] <thatguythr> sup
+2012-03-17 14:10:44 [INFO] <Godfrey9> go look at my epic tower
+2012-03-17 14:11:51 [INFO] <Godfrey9> what you think?
+2012-03-17 14:11:54 [INFO] <thatguythr> nice
+2012-03-17 14:12:00 [INFO] <Godfrey9> thanks
+2012-03-17 14:12:46 [INFO] <thatguythr> i like the fact that there is fire right next to wood that is not setting the wood ablaze
+2012-03-17 14:12:56 [INFO] <Godfrey9> i know!
+2012-03-17 14:13:13 [INFO] <Godfrey9> the nether brick fence keeps it from lighting up
+2012-03-17 14:15:12 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 14:15:17 [INFO] Godfrey9 [/5.229.38.4:51601] logged in with entity id 2058372 at (789.9563814056864, 74.25953597879622, 346.3581767926523)
+2012-03-17 14:15:18 [INFO] Godfrey9 joined with mod_ReiMinimap v3.0_03 [1.2.3], mod_ModLoaderMp 1.2.3v2
+2012-03-17 14:15:36 [INFO] <Godfrey9> giant holes have been appering in the world
+2012-03-17 14:15:56 [INFO] <Godfrey9> i have to leave and then come back to make them go away
+2012-03-17 14:16:02 [INFO] <thatguythr> hmm... have not seen any...
+2012-03-17 14:16:45 [INFO] <Godfrey9> yeah, i bet it has something to do with my comp
+2012-03-17 14:16:49 [INFO] <thatguythr> found one
+2012-03-17 14:16:57 [INFO] <Godfrey9> oh yeah?
+2012-03-17 14:17:05 [INFO] <thatguythr> lemmi look online for a fix
+2012-03-17 14:17:14 [INFO] <Godfrey9> goes all the way to the bottom
+2012-03-17 14:17:15 [INFO] <Godfrey9> cool
+2012-03-17 14:22:25 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-17 14:24:22 [INFO] [CONSOLE] SERVER GOING DOWN
+2012-03-17 14:24:27 [INFO] <Godfrey9> give me a sec
+2012-03-17 14:24:30 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 14:24:36 [INFO] Stopping server
+2012-03-17 14:24:36 [INFO] Saving chunks
+2012-03-17 14:24:36 [INFO] Saving chunks
+2012-03-17 14:24:36 [INFO] Saving chunks
+2012-03-17 14:24:57 [INFO] Starting minecraft server version 1.2.3
+2012-03-17 14:24:57 [INFO] Loading properties
+2012-03-17 14:24:57 [INFO] Starting Minecraft server on *:25565
+2012-03-17 14:24:57 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-17 14:24:57 [INFO] Preparing level "world"
+2012-03-17 14:24:57 [INFO] Default game type: 1
+2012-03-17 14:24:58 [INFO] ---- Migration of old nether folder required ----
+2012-03-17 14:24:58 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+2012-03-17 14:24:58 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-17 14:24:58 [INFO] Attempting to move world\DIM-1 to world_nether\DIM-1...
+2012-03-17 14:24:58 [INFO] Success! To restore nether in the future, simply move world_nether\DIM-1 to world\DIM-1
+2012-03-17 14:24:58 [INFO] ---- Migration of old nether folder complete ----
+2012-03-17 14:24:58 [INFO] ---- Migration of old the_end folder required ----
+2012-03-17 14:24:58 [INFO] Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+2012-03-17 14:24:58 [INFO] We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+2012-03-17 14:24:58 [INFO] Attempting to move world\DIM1 to world_the_end\DIM1...
+2012-03-17 14:24:58 [INFO] Success! To restore the_end in the future, simply move world_the_end\DIM1 to world\DIM1
+2012-03-17 14:24:58 [INFO] ---- Migration of old the_end folder complete ----
+2012-03-17 14:24:58 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-17 14:24:58 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-17 14:24:59 [INFO] Preparing spawn area: 16%
+2012-03-17 14:24:59 [INFO] ----- Bukkit Auto Updater -----
+2012-03-17 14:24:59 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-03-17 14:24:59 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-03-17 14:24:59 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-03-17 14:24:59 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-03-17 14:24:59 [INFO] ----- ------------------- -----
+2012-03-17 14:25:00 [INFO] Preparing spawn area: 44%
+2012-03-17 14:25:01 [INFO] Preparing spawn area: 73%
+2012-03-17 14:25:02 [INFO] Preparing spawn area: 89%
+2012-03-17 14:25:02 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-17 14:25:03 [INFO] Preparing spawn area: 44%
+2012-03-17 14:25:03 [INFO] Done (5.971s)! For help, type "help" or "?"
+2012-03-17 14:25:44 [INFO] thatguythr [/5.35.211.134:51933] logged in with entity id 44 at ([world] 783.3125, 64.0, 352.03125)
+2012-03-17 14:25:44 [INFO] Chunk file at 51,17 is in the wrong location; relocating. (Expected 51, 17, got 32, 3)
+2012-03-17 14:53:42 [INFO] Godfrey9 [/5.229.38.4:51709] logged in with entity id 462956 at ([world] 721.2313528222006, 75.33020286935145, 350.0011707451925)
+2012-03-17 14:53:49 [INFO] <Godfrey9> yo
+2012-03-17 14:53:54 [INFO] <thatguythr> sup
+2012-03-17 14:54:07 [INFO] <Godfrey9> nothin much
+2012-03-17 14:54:30 [INFO] <Godfrey9> what ou working on?
+2012-03-17 14:54:34 [INFO] <thatguythr> ma house
+2012-03-17 14:54:58 [INFO] <Godfrey9> nice, i like it
+2012-03-17 15:21:33 [INFO] <Godfrey9> solid place dude
+2012-03-17 15:35:29 [INFO] <Godfrey9> the other tower is almost done
+2012-03-17 15:35:44 [INFO] <Godfrey9> but i need to go to work so ill finnish it when i get home
+2012-03-17 15:36:41 [INFO] <Godfrey9> i am doing something wrong
+2012-03-17 15:36:44 [INFO] <Godfrey9> arg
+2012-03-17 15:37:46 [INFO] <Godfrey9> figgured it out
+2012-03-17 15:37:56 [INFO] <Godfrey9> lol
+2012-03-17 15:39:35 [INFO] <Godfrey9> the outside is don!
+2012-03-17 15:39:39 [INFO] <Godfrey9> done*
+2012-03-17 15:39:45 [INFO] <Godfrey9> i will do the inside latter
+2012-03-17 15:39:58 [INFO] <Godfrey9> well I am out of here
+2012-03-17 15:40:02 [INFO] <Godfrey9> see ya latter
+2012-03-17 15:40:06 [INFO] <thatguythr> later
+2012-03-17 15:40:07 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 15:40:07 [INFO] Connection reset
+2012-03-17 15:40:10 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-17 15:40:10 [INFO] Connection reset
+2012-03-17 20:54:50 [INFO] Godfrey9 [/5.229.38.4:52608] logged in with entity id 1654313 at ([world] 761.0, 98.0625, 335.9375)
+2012-03-17 20:56:06 [INFO] Connection reset
+2012-03-17 20:56:06 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:11:37 [INFO] Godfrey9 [/5.229.38.4:52926] logged in with entity id 1675790 at ([world] 611.3387534777955, 77.5, 349.1637343991662)
+2012-03-17 21:32:35 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:32:35 [INFO] Connection reset
+2012-03-17 21:32:35 [SEVERE] java.net.SocketException: Socket closed
+2012-03-17 21:32:35 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2012-03-17 21:32:35 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2012-03-17 21:32:35 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+2012-03-17 21:32:35 [SEVERE] 	at java.io.BufferedOutputStream.flush(Unknown Source)
+2012-03-17 21:32:35 [SEVERE] 	at java.io.DataOutputStream.flush(Unknown Source)
+2012-03-17 21:32:35 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-17 21:32:39 [INFO] Connection reset
+2012-03-17 21:32:39 [INFO] /5.229.38.4:52948 lost connection
+2012-03-17 21:32:47 [INFO] Connection reset
+2012-03-17 21:32:47 [INFO] /5.229.38.4:52950 lost connection
+2012-03-17 21:36:19 [INFO] Godfrey9 [/5.229.38.4:52960] logged in with entity id 2032639 at ([world] 631.1765894266078, 70.74880114359594, 471.01740503544454)
+2012-03-17 21:37:16 [INFO] Connection reset
+2012-03-17 21:37:16 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:37:21 [INFO] Godfrey9 [/5.229.38.4:52968] logged in with entity id 2048333 at ([world] 643.7599516465997, 67.37380380545198, 476.6808357374324)
+2012-03-17 21:38:32 [INFO] Connection reset
+2012-03-17 21:38:32 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:38:35 [INFO] Godfrey9 [/5.229.38.4:52984] logged in with entity id 2068386 at ([world] 646.719676581595, 75.68544078583902, 477.3220053320151)
+2012-03-17 21:39:51 [INFO] Connection reset
+2012-03-17 21:39:51 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:39:54 [INFO] Godfrey9 [/5.229.38.4:52990] logged in with entity id 2089737 at ([world] 656.8994579771913, 67.31359317729253, 479.50278010858005)
+2012-03-17 21:45:38 [INFO] Placed stronghold in INVALID biome at (-31, 41)
+2012-03-17 21:45:38 [INFO] Placed stronghold in INVALID biome at (-22, -53)
+2012-03-17 21:49:20 [INFO] Connection reset
+2012-03-17 21:49:20 [INFO] /5.229.38.4:53003 lost connection
+2012-03-17 21:49:24 [SEVERE] java.net.SocketException: Socket closed
+2012-03-17 21:49:24 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2012-03-17 21:49:24 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2012-03-17 21:49:24 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+2012-03-17 21:49:24 [SEVERE] 	at java.io.BufferedOutputStream.flush(Unknown Source)
+2012-03-17 21:49:24 [SEVERE] 	at java.io.DataOutputStream.flush(Unknown Source)
+2012-03-17 21:49:24 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-17 21:49:24 [INFO] Godfrey9 lost connection: disconnect.endOfStream
+2012-03-17 21:49:36 [INFO] Godfrey9 [/5.229.38.4:53012] logged in with entity id 2245166 at ([world] 758.0465740196981, 64.99880380545436, 446.04157285153207)
+2012-03-17 21:52:59 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-17 21:52:59 [INFO] Connection reset
+2012-03-17 23:43:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-19 09:55:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-19 14:47:48 [INFO] Starting minecraft server version 1.2.3
+2012-03-19 14:47:48 [INFO] Loading properties
+2012-03-19 14:47:48 [INFO] Starting Minecraft server on *:25565
+2012-03-19 14:47:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-19 14:47:48 [INFO] Preparing level "world"
+2012-03-19 14:47:48 [INFO] Default game type: 1
+2012-03-19 14:47:48 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-19 14:47:49 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-19 14:47:49 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-19 14:47:49 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-19 14:47:49 [INFO] Done (1.125s)! For help, type "help" or "?"
+2012-03-19 14:47:51 [INFO] ----- Bukkit Auto Updater -----
+2012-03-19 14:47:51 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-03-19 14:47:51 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-03-19 14:47:51 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-03-19 14:47:51 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-03-19 14:47:51 [INFO] ----- ------------------- -----
+2012-03-19 14:52:45 [INFO] Connection reset
+2012-03-19 14:52:45 [INFO] /5.229.38.4:49446 lost connection
+2012-03-19 15:17:46 [INFO] thatguythr [/5.35.211.134:56813] logged in with entity id 36 at ([world] 704.7181532405787, 78.4354407858391, 374.1343943487436)
+2012-03-19 15:27:37 [SEVERE] java.lang.NullPointerException
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.Packet.b(Packet.java:161)
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.Packet107SetCreativeSlot.a(SourceFile:25)
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.Packet.a(Packet.java:83)
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.NetworkManager.h(NetworkManager.java:149)
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.NetworkManager.c(NetworkManager.java:268)
+2012-03-19 15:27:37 [SEVERE] 	at net.minecraft.server.NetworkReaderThread.run(SourceFile:76)
+2012-03-19 15:27:37 [INFO] thatguythr lost connection: disconnect.genericReason
+2012-03-19 15:27:41 [INFO] /5.35.211.134:56886 lost connection
+2012-03-19 15:27:43 [INFO] thatguythr [/192.168.1.6:56895] logged in with entity id 174408 at ([world] 718.625, 62.0, 313.65625)
+2012-03-19 15:53:14 [INFO] thatguythr: Setting thatguythr to game mode 0
+2012-03-19 15:58:07 [INFO] thatguythr: Setting thatguythr to game mode 1
+2012-03-19 15:58:37 [INFO] thatguythr: Setting thatguythr to game mode 0
+2012-03-19 16:06:58 [INFO] thatguythr: Setting thatguythr to game mode 1
+2012-03-19 16:08:03 [INFO] thatguythr: Setting thatguythr to game mode 0
+2012-03-19 16:09:00 [INFO] thatguythr: Setting thatguythr to game mode 1
+2012-03-19 16:09:40 [INFO] thatguythr: Setting thatguythr to game mode 0
+2012-03-19 16:11:02 [INFO] thatguythr: Setting thatguythr to game mode 1
+2012-03-19 16:11:45 [INFO] thatguythr: Setting thatguythr to game mode 0
+2012-03-19 16:28:08 [INFO] thatguythr: Setting thatguythr to game mode 1
+2012-03-19 17:21:17 [INFO] Connection reset
+2012-03-19 17:21:17 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-19 17:22:04 [INFO] Starting minecraft server version 1.2.3
+2012-03-19 17:22:04 [INFO] Loading properties
+2012-03-19 17:22:04 [INFO] Starting Minecraft server on *:25565
+2012-03-19 17:22:04 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-19 17:22:04 [INFO] Preparing level "world"
+2012-03-19 17:22:04 [INFO] Default game type: 1
+2012-03-19 17:22:04 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-19 17:22:05 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-19 17:22:05 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-19 17:22:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-19 17:22:05 [INFO] Done (0.827s)! For help, type "help" or "?"
+2012-03-19 17:22:06 [INFO] ----- Bukkit Auto Updater -----
+2012-03-19 17:22:06 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2012-03-19 17:22:06 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2012-03-19 17:22:06 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2012-03-19 17:22:06 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2012-03-19 17:22:06 [INFO] ----- ------------------- -----
+2012-03-19 17:41:09 [INFO] Starting minecraft server version 1.2.3
+2012-03-19 17:41:09 [INFO] Loading properties
+2012-03-19 17:41:09 [INFO] Starting Minecraft server on *:25565
+2012-03-19 17:41:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-19 17:41:10 [INFO] Preparing level "world"
+2012-03-19 17:41:10 [INFO] Default game type: 1
+2012-03-19 17:41:10 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-19 17:41:10 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-19 17:41:10 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-19 17:41:10 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-19 17:41:10 [INFO] Done (0.800s)! For help, type "help" or "?"
+2012-03-19 17:42:54 [INFO] Starting minecraft server version 1.2.3
+2012-03-19 17:42:54 [INFO] Loading properties
+2012-03-19 17:42:54 [INFO] Starting Minecraft server on *:25565
+2012-03-19 17:42:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-19 17:42:55 [INFO] Preparing level "world"
+2012-03-19 17:42:55 [INFO] Default game type: 1
+2012-03-19 17:42:55 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-19 17:42:55 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-19 17:42:55 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-19 17:42:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-19 17:42:55 [INFO] Done (0.807s)! For help, type "help" or "?"
+2012-03-19 17:43:44 [INFO] thatguythr [/5.35.211.134:58432] logged in with entity id 36 at ([world] 711.4637073624202, 73.88172773251732, 312.89153636975067)
+2012-03-19 17:47:35 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-19 17:47:35 [INFO] Connection reset
+2012-03-19 21:11:53 [INFO] Zerec456 [/5.229.35.210:2805] logged in with entity id 68055 at ([world] 695.59375, 68.875, 214.8125)
+2012-03-19 21:11:54 [INFO] Placed stronghold in INVALID biome at (-31, 41)
+2012-03-19 21:11:54 [INFO] Placed stronghold in INVALID biome at (-22, -53)
+2012-03-19 21:11:54 [INFO] 35, 3
+2012-03-19 21:13:39 [INFO] Read timed out
+2012-03-19 21:13:39 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-19 21:17:02 [INFO] Zerec456 [/5.229.35.210:1115] logged in with entity id 96215 at ([world] 667.625, 65.0, 400.90625)
+2012-03-19 21:17:55 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-19 21:17:55 [INFO] Connection reset
+2012-03-19 21:50:01 [INFO] Zerec456 [/5.229.35.210:1162] logged in with entity id 110949 at ([world] 659.3838883424719, 65.0, 397.03750012962377)
+2012-03-19 21:52:19 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-19 21:52:19 [INFO] Connection reset
+2012-03-19 21:52:29 [INFO] Zerec456 [/5.229.35.210:1168] logged in with entity id 150446 at ([world] 659.5313274420962, 65.0, 391.8351246228528)
+2012-03-19 21:53:28 [INFO] Connection reset
+2012-03-19 21:53:28 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-19 22:06:27 [INFO] Zerec456 [/5.229.35.210:1186] logged in with entity id 166814 at ([world] 652.3000000119209, 65.0, 363.8608247836959)
+2012-03-19 22:08:09 [INFO] Connection reset
+2012-03-19 22:08:09 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-19 22:20:43 [INFO] Zerec456 [/5.229.35.210:1209] logged in with entity id 196290 at ([world] 665.1625694896941, 65.0, 386.14328357338576)
+2012-03-19 22:21:12 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-19 22:21:12 [INFO] Connection reset
+2012-03-19 22:21:12 [SEVERE] java.net.SocketException: Socket closed
+2012-03-19 22:21:12 [SEVERE] 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+2012-03-19 22:21:12 [SEVERE] 	at java.net.SocketOutputStream.write(Unknown Source)
+2012-03-19 22:21:12 [SEVERE] 	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+2012-03-19 22:21:12 [SEVERE] 	at java.io.BufferedOutputStream.flush(Unknown Source)
+2012-03-19 22:21:12 [SEVERE] 	at java.io.DataOutputStream.flush(Unknown Source)
+2012-03-19 22:21:12 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:103)
+2012-03-20 07:43:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 10:11:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 15:25:59 [INFO] Starting minecraft server version 1.2.3
+2012-03-20 15:25:59 [INFO] Loading properties
+2012-03-20 15:25:59 [INFO] Starting Minecraft server on *:25565
+2012-03-20 15:25:59 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-20 15:26:00 [INFO] Preparing level "world"
+2012-03-20 15:26:00 [INFO] Default game type: 1
+2012-03-20 15:26:00 [INFO] Preparing start region for level 0 (Seed: -3795212381002261082)
+2012-03-20 15:26:00 [INFO] Preparing start region for level 1 (Seed: -4694717116831946200)
+2012-03-20 15:26:01 [INFO] Preparing spawn area: 77%
+2012-03-20 15:26:01 [INFO] Preparing start region for level 2 (Seed: -4694717116831946200)
+2012-03-20 15:26:01 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-20 15:26:01 [INFO] Done (1.657s)! For help, type "help" or "?"
+2012-03-20 16:24:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:24:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:24:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:25:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:29:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:30:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:30:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:30:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:30:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:31:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:32:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:33:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:45:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:46:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:46:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:46:53 [INFO] Zerec456 [/5.229.35.210:3346] logged in with entity id 36 at ([world] 672.6781281796857, 65.0, 363.69999998807907)
+2012-03-20 16:47:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:47:55 [INFO] /5.229.35.210:3352 lost connection
+2012-03-20 16:47:55 [INFO] Zerec456 lost connection: disconnect.endOfStream
+2012-03-20 16:47:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:48:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:49:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:50:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:51:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:52:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 16:53:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:15:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:15:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:15:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:15:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:16:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:21:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:21:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:21:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:21:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:22:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:23:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:24:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:25:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:45:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:47:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:48:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:49:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:49:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:49:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 17:49:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 18:58:27 [INFO] Starting minecraft server version 1.2.3
+2012-03-20 18:58:27 [INFO] Loading properties
+2012-03-20 18:58:27 [INFO] Starting Minecraft server on *:25565
+2012-03-20 18:58:27 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-20 18:58:27 [INFO] Preparing level "world"
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:221)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:221)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [INFO] Default game type: 1
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:263)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:263)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-20 18:58:27 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-20 18:58:27 [INFO] Preparing start region for level 0 (Seed: 2094594835168334941)
+2012-03-20 18:58:28 [INFO] Preparing spawn area: 16%
+2012-03-20 18:58:29 [INFO] Preparing start region for level 1 (Seed: 2094594835168334941)
+2012-03-20 18:58:29 [INFO] Preparing spawn area: 56%
+2012-03-20 18:58:29 [INFO] Preparing start region for level 2 (Seed: 2094594835168334941)
+2012-03-20 18:58:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-20 18:58:29 [INFO] Done (2.514s)! For help, type "help" or "?"
+2012-03-20 18:59:26 [INFO] /192.168.1.6:49752 lost connection
+2012-03-20 18:59:29 [INFO] thatguythr [/5.35.211.134:49755] logged in with entity id 1397 at ([world] 709.0411961626543, 73.0, 308.5937689209055)
+2012-03-20 19:00:15 [INFO] thatguythr lost connection: disconnect.quitting
+2012-03-20 19:00:15 [INFO] Connection reset
+2012-03-20 19:00:42 [INFO] Starting minecraft server version 1.2.3
+2012-03-20 19:00:42 [INFO] Loading properties
+2012-03-20 19:00:42 [INFO] Starting Minecraft server on *:25565
+2012-03-20 19:00:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-20 19:00:43 [INFO] Preparing level "world"
+2012-03-20 19:00:43 [INFO] Default game type: 1
+2012-03-20 19:00:43 [INFO] Preparing start region for level 0 (Seed: 2094594835168334941)
+2012-03-20 19:00:43 [INFO] Preparing start region for level 1 (Seed: 2094594835168334941)
+2012-03-20 19:00:43 [INFO] Preparing start region for level 2 (Seed: 2094594835168334941)
+2012-03-20 19:00:43 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-20 19:00:43 [INFO] Done (0.835s)! For help, type "help" or "?"
+2012-03-20 19:01:06 [INFO] [Server] SERVER CRASH LOGGED... REPAIRED
+2012-03-20 19:06:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:06:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:07:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:08:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:08:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:09:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:09:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:10:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:12:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:13:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:13:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:13:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:14:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:16:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:16:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:17:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:17:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:18:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:18:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:19:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:19:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:34:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:35:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:36:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:36:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:36:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 19:36:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:15:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:16:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:16:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:16:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:16:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:16:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:55:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:55:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:55:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:55:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 20:55:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 21:37:01 [INFO] Starting minecraft server version 1.2.3
+2012-03-20 21:37:01 [INFO] Loading properties
+2012-03-20 21:37:01 [INFO] Starting Minecraft server on *:25565
+2012-03-20 21:37:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-20 21:37:01 [INFO] Preparing level "world"
+2012-03-20 21:37:01 [INFO] Default game type: 1
+2012-03-20 21:37:02 [INFO] Preparing start region for level 0 (Seed: 2094594835168334941)
+2012-03-20 21:37:02 [INFO] Preparing start region for level 1 (Seed: 2094594835168334941)
+2012-03-20 21:37:03 [INFO] Preparing spawn area: 36%
+2012-03-20 21:37:03 [INFO] Preparing start region for level 2 (Seed: 2094594835168334941)
+2012-03-20 21:37:03 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-20 21:37:03 [INFO] Done (1.918s)! For help, type "help" or "?"
+2012-03-20 21:56:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 21:56:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 21:56:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 21:56:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 21:57:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:09:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:11:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:12:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:13:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:15:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:15:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:15:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:15:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:16:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:17:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:17:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 22:40:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:01:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:01:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:01:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:01:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:02:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:02:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:02:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:02:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:03:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:03:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:03:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:03:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:04:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:05:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:36:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:38:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-20 23:39:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:05:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 00:07:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-21 11:20:38 [INFO] Starting minecraft server version 1.2.3
+2012-03-21 11:20:38 [INFO] Loading properties
+2012-03-21 11:20:38 [INFO] Starting Minecraft server on *:25565
+2012-03-21 11:20:38 [INFO] This server is running CraftBukkit version git-Bukkit-1.2.3-R0.2-b2060jnks (MC: 1.2.3) (Implementing API version 1.2.3-R0.2)
+2012-03-21 11:20:39 [INFO] Preparing level "world"
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:221)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:221)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [INFO] Default game type: 1
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:263)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:263)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:52)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoader.b(SourceFile:63)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldLoaderServer.isConvertable(SourceFile:82)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:293)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [SEVERE] java.util.zip.ZipException: Not in GZIP format
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(Unknown Source)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.NBTCompressedStreamTools.a(SourceFile:9)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldNBTStorage.getWorldData(WorldNBTStorage.java:100)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.World.<init>(World.java:141)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.WorldServer.<init>(WorldServer.java:27)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.SecondaryWorldServer.<init>(SecondaryWorldServer.java:8)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:298)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.init(MinecraftServer.java:187)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:425)
+2012-03-21 11:20:39 [SEVERE] 	at net.minecraft.server.ThreadServerApplication.run(SourceFile:490)
+2012-03-21 11:20:39 [INFO] Preparing start region for level 0 (Seed: 682515530662116766)
+2012-03-21 11:20:39 [INFO] Preparing start region for level 1 (Seed: 682515530662116766)
+2012-03-21 11:20:40 [INFO] Preparing start region for level 2 (Seed: 682515530662116766)
+2012-03-21 11:20:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-03-21 11:20:40 [INFO] Done (1.399s)! For help, type "help" or "?"
+2012-03-21 20:13:35 [INFO] Godfrey9 [/5.229.38.4:49409] logged in with entity id 543 at ([world] 632.1964508668365, 66.50672773251726, 469.67500175727105)
+2012-03-21 20:15:16 [INFO] Zerec456 [/5.229.35.210:2308] logged in with entity id 28949 at ([world] 674.7164404185457, 65.0, 361.11575870533454)
+2012-03-21 20:15:23 [INFO] <Godfrey9> hero
+2012-03-21 20:15:36 [INFO] <Zerec456> oh herro preeeeese
+2012-03-21 20:16:55 [INFO] <Godfrey9> showing my brother in law the inn
+2012-03-21 20:17:27 [INFO] <Zerec456> ugh, lagging so bad...i think its my lappy
+2012-03-21 20:17:33 [INFO] <Godfrey9> sad time
+2012-03-21 20:17:37 [INFO] <Godfrey9> get your comp!!!!
+2012-03-21 20:18:52 [INFO] <Godfrey9> going to go onto the gaming crew server in a few
+2012-03-21 20:19:00 [INFO] <Zerec456> kk
+2012-03-21 20:19:03 [INFO] Zerec456 lost connection: disconnect.quitting
+2012-03-21 20:19:03 [INFO] Connection reset
+2012-03-21 20:21:14 [INFO] Connection reset
+2012-03-21 20:21:14 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-21 21:15:17 [INFO] Godfrey9 [/5.229.38.4:49634] logged in with entity id 140987 at ([world] 697.7933878142318, 74.09083860054294, 321.4617084607328)
+2012-03-21 21:15:28 [INFO] Connection reset
+2012-03-21 21:15:28 [INFO] Godfrey9 lost connection: disconnect.quitting
+2012-03-22 07:43:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:28:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:29:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:29:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:36:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:36:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:37:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:38:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:39:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:40:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 11:53:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 15:43:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 15:50:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 16:43:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 17:43:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-03-22 18:43:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
